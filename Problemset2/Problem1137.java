@@ -18,5 +18,5 @@ public class Problem1137 {
         }
         return sum;
 
-    }   
+    }
 }
