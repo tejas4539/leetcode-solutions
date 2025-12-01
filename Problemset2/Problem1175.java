@@ -1,4 +1,4 @@
-package Problemset2;
+
 
 public class Problem1175 {
      static final int MOD = 1_000_000_007;

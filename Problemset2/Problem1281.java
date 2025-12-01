@@ -1,4 +1,4 @@
-package Problemset2;
+
 
 public class Problem1281 {
     public static int subtractProductAndSum(int n) {
@@ -14,7 +14,5 @@ public class Problem1281 {
         return product-sum;
     }
 
-    public static void main(String[] args) {
-         System.out.println(subtractProductAndSum(234));
-    }
+  
 }
