@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Problem1417 {
     public String reformat(String s) {
         if (s.length() == 1)
